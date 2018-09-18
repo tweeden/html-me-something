@@ -1,0 +1,19 @@
+#container{
+    width:100%;
+}
+
+h1 { 
+    color: blue;
+}
+ .font{
+     margin: 50px;
+ }
+ textarea {
+     width: 50%;
+     margin: -50px 50px 50px 50px;
+ }
+
+ input {
+     position: relative;
+     left: -780px;
+ }
